@@ -1,0 +1,6 @@
+- 👋Hello, I'm Sergio!
+-  you can also call me by my user @Serge728
+- 🌟 Web API Developer specializing in Java (Spring Boot) and C# (.NET)
+- 🛠️ Tech Stack: Java, C#, PostgreSQL, MongoDB, SQL, Oracle, Mysql, Gradle, IntelliJ, VS Code
+- 📜 Portfolio: Coming Soon!
+- Interested in developing open source and freelance.
